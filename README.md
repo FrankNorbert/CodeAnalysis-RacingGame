@@ -216,4 +216,5 @@ No ficheiro "MathUtils.cs", existe toda a lógica matemática ligada ao jogo.
 ![image](https://user-images.githubusercontent.com/106490681/235989711-2edb4a59-a053-45db-b315-d6944524533c.png)
 
 ![image](https://user-images.githubusercontent.com/106490681/235989762-116f4b37-b0ed-483a-8aa1-302d1cc5b95c.png)
-
+ 
+ a 
