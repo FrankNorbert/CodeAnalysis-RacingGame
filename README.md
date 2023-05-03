@@ -6,6 +6,15 @@ Trabalho realizado por: Dário Ribeiro, a23489
 
 Neste trabalho, foi pedido para fazer a análise de um jogo desenvolvido em Monogame, à escolha.
 Em particular, foi escolhido o jogo chamado de "RacingGame".
+O RacingGame é um jogo de corrida 2D Top-Down, feito em C# e Monogame, com o objetivo de acabar as voltas todas do cicuito em primeiro lugar, como qualquer outro jogo de corrida.
+É possível andar para a frente, travar, virar e colidir.
+Os controlos são:
+
+Z - Andar para a frente;
+S - Travar / andar para trás;
+Q - Andar para a esquerda;
+D - Andar para a direita.
+
 
 ------------------------------ANÁLISE DE FICHEIROS / CÓDIGO-------------------------------
 ![image](https://user-images.githubusercontent.com/106490681/235947349-f00b37b7-fbdd-473c-a117-c4bea1fb5763.png)
