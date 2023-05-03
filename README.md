@@ -193,5 +193,27 @@ Esta pasta contém código utilitário, e parte da lógica do jogo.
 
 ![image](https://user-images.githubusercontent.com/106490681/235986277-b7cef82b-ae8c-41ef-88dc-7572e432c782.png)
 
+![image](https://user-images.githubusercontent.com/106490681/235986397-4dc2be6a-ab15-4f6b-a2e2-12545f2cd606.png)
 
+Nas imagens acima, podemos observar o código que contém o ficheiro "Assets.cs". Este apenas contém código para gerir a cache e os assets utilizados no jogo.
+
+No ficheiro "InputManager.cs", podemos ver que lá existe apenas o código para gerir inputs de teclado e rato, sendo este ficheiro a mãe. 
+
+Nele, é utilizado a abordagem de "KeyPressed", "KeyReleased", "KeyUp", ou "KeyDown".
+
+![image](https://user-images.githubusercontent.com/106490681/235987922-12468e37-c294-4b68-b7e2-273910b8fa0c.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235987963-174c5f4c-0a51-4221-9353-dee1a88f9659.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235987995-bcb9d0ea-eaca-444b-85ab-6691d1f35193.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235988028-9f719f7f-eb88-4ace-a227-750571c1955c.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235988067-e365c4a2-ad9d-4077-96cd-57671999108c.png)
+
+No ficheiro "MathUtils.cs", existe toda a lógica matemática ligada ao jogo.
+
+![image](https://user-images.githubusercontent.com/106490681/235989711-2edb4a59-a053-45db-b315-d6944524533c.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235989762-116f4b37-b0ed-483a-8aa1-302d1cc5b95c.png)
 
