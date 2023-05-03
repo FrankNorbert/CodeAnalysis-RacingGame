@@ -95,6 +95,10 @@ O código que existe dentro do ficheiro "AIRaceCarEntity.cs" representa os carro
 
 ![image](https://user-images.githubusercontent.com/106490681/235977920-4cbedf44-e11d-49cf-bc4c-e9a928714c6f.png)
 
+![image](https://user-images.githubusercontent.com/106490681/235978583-db6299b1-9733-499e-bb55-b6c7252f0cc8.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235978617-c335fdab-d70d-4acc-a750-8243f430c57f.png)
+
 
 O código que existe dentro do ficheiro "MapEntity.cs" representa a entidade "Map", e este código contém métodos para renderizar o mapa, e verificar as colisões com o mesmo.
 
