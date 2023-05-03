@@ -9,6 +9,7 @@ Em particular, foi escolhido o jogo chamado de "RacingGame".
 
 ------------------------------ANÁLISE DE FICHEIROS-------------------------------
 ![image](https://user-images.githubusercontent.com/106490681/235947349-f00b37b7-fbdd-473c-a117-c4bea1fb5763.png)
+
 Ao analisar esta imagem, podemos observar que existem 5 pastas, com nomes:
 -Assets;
 -Core;
