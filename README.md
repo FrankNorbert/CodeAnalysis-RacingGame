@@ -49,7 +49,7 @@ Nesta imagem, podemos observar o código que está contido no ficheiro "BaseScen
 
 ![image](https://user-images.githubusercontent.com/106490681/235958521-5f489ed7-383b-4c10-9821-7c91f9a737eb.png)
 
-Estas imagens representam o que contém o ficheiro "Camera.cs", onde todo este código irá manipular completamente a câmara, que neste caso, está centrada no nosso veículo (graças à função Update). Este código também permite trocar o zoom e manter o alcance da câmara se a janela onde o jogo se encontra se altera.
+Estas imagens representam o que contém o ficheiro "Camera.cs", onde todo este código irá manipular completamente a câmara, que neste caso, está centrada no nosso carro (graças à função Update). Este código também permite trocar o zoom e manter o alcance da câmara se a janela onde o jogo se encontra se altera.
 
 ![image](https://user-images.githubusercontent.com/106490681/235961268-202dc23e-4e0d-4c51-9e94-835690c325fd.png)
 
@@ -114,5 +114,44 @@ O código que existe dentro do ficheiro "MapEntity.cs" representa a entidade "Ma
 O código que existe dentro do ficheiro "PlayerRaceCarEntity.cs" representa a entidade "RaceCarEntity", mas especificada para o jogador. 
 Ele verifica o input do carro do jogador, e mantém registo dos seus tempos de volta.
 
+![image](https://user-images.githubusercontent.com/106490681/235980096-66e55b6a-1f24-45b0-945c-9a689a0e46ee.png)
 
-O ficheiro "Level.cs" contém o código necessário para o nível ser criado no ecrã.
+![image](https://user-images.githubusercontent.com/106490681/235980129-1e80cc70-c8ed-46ad-b1f0-de76a6e80bce.png)
+
+O código que existe dentro do ficheiro "RaceCarEntity.cs" representa a "entidade-mãe" da entidade do carro do computador, e do carro do jogador. Apenas contém toda a lógica necessária para o carro se movimentar, e a informação necessária em relação ao piloto em particular, como as voltas que já completou.
+
+![image](https://user-images.githubusercontent.com/106490681/235980979-d2e95ceb-b3cf-4ec2-b378-1a00a61535d9.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235981018-e3ac491c-257e-43c0-b763-49681c0b805c.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235981042-b8af304d-118c-40f8-99ba-a09493b1edf4.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235981065-fd2af8a5-9497-4379-ab25-ef2e50c05943.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235981128-9371f63a-717a-41e7-9b6f-5a1e200e3914.png)
+
+
+
+O ficheiro "Level.cs" contém o código necessário para o nível ser criado no ecrã, através do ficheiro .xml que o desenvolvedor deste jogo utilizou.
+
+![image](https://user-images.githubusercontent.com/106490681/235983018-c72f9fcc-0313-4345-89c6-fedd8fbe8eb8.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235983056-78dc4827-76fa-4698-b650-7269868bbd80.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235983084-b3373dbc-b732-4812-b127-e2f779ddcebb.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235983151-6de8234b-e7c9-4457-b307-7490abf5aea1.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235983183-958262d5-0013-4002-9282-0f2eacb89803.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235983200-92dd3689-5ee3-407b-a6c0-d0cb1a3de1c4.png)
+
+---SCENES---
+Dentro desta pasta, existem os ficheiros necessários para carregar o mapa, e para detetar colisões ("GameScene.cs" e "SATDemoScene.cs", respetivamente).
+
+No ficheiro "GameScene.cs", observamos:
+
+![image](https://user-images.githubusercontent.com/106490681/235983975-4cf4c9ee-e22a-4d82-b31d-c13916926895.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984040-2eca956f-7839-45e8-832e-01b8870d8854.png)
+
