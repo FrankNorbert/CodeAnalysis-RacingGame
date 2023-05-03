@@ -102,6 +102,15 @@ O código que existe dentro do ficheiro "AIRaceCarEntity.cs" representa os carro
 
 O código que existe dentro do ficheiro "MapEntity.cs" representa a entidade "Map", e este código contém métodos para renderizar o mapa, e verificar as colisões com o mesmo.
 
+![image](https://user-images.githubusercontent.com/106490681/235978756-9062aced-8a4b-480a-b5bf-3cb0a169a8f3.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235978848-540fcf21-5abf-4b68-8918-aa739402d753.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235978918-c5b99172-2d6c-4f11-8ba4-9d5d7a6d3fa3.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235978950-3a92ef02-e6b7-40bb-a1de-8f430a91d512.png)
+
+
 O código que existe dentro do ficheiro "PlayerRaceCarEntity.cs" representa a entidade "RaceCarEntity", mas especificada para o jogador. 
 Ele verifica o input do carro do jogador, e mantém registo dos seus tempos de volta.
 
