@@ -7,7 +7,7 @@ Trabalho realizado por: Dário Ribeiro, a23489
 Neste trabalho, foi pedido para fazer a análise de um jogo desenvolvido em Monogame, à escolha.
 Em particular, foi escolhido o jogo chamado de "RacingGame".
 
-------------------------------ANÁLISE DE FICHEIROS-------------------------------
+------------------------------ANÁLISE DE FICHEIROS / CÓDIGO-------------------------------
 ![image](https://user-images.githubusercontent.com/106490681/235947349-f00b37b7-fbdd-473c-a117-c4bea1fb5763.png)
 
 Ao analisar esta imagem, podemos observar que existem 5 pastas, com nomes:
