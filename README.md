@@ -34,6 +34,7 @@ A pasta "Assets", como o nome indica, contém as imagens, fontes e sprites que f
 ---CORE---
 A pasta "Core", como o nome indica, contém a lógica para o jogo dar load para o ecrã.
 ![image](https://user-images.githubusercontent.com/106490681/235955650-2ecf0555-7b31-428a-96f3-30b52eb8b6a7.png)
+
 Nesta imagem, podemos observar o código que está contido no ficheiro "BaseScene.cs", onde esta função mostrada irá encarregar-se de ser uma base para carregar os mapas, e de gerir o input de teclado e de rato.
 
 
