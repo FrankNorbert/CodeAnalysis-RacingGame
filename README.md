@@ -82,9 +82,23 @@ Todas as imagens acima contêm código derivado do ficheiro "GameEntity.cs", que
 
 ---GAME---
 
+![image](https://user-images.githubusercontent.com/106490681/235976194-8e75f272-4227-42eb-b427-8e956a961b89.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235976238-ca27a5e3-5eaa-4703-ae79-32f4f7a063b0.png)
+
 A pasta "Game", como o nome indica, contém a lógica por detrás dos carros e dos mapas, interpretando-os como os "entities", já referidos anteriormente.
+
 O código que existe dentro do ficheiro "AIRaceCarEntity.cs" representa os carros adversários, controlados pelo computador, pois este jogo é apenas single-player.
 
-![image](https://user-images.githubusercontent.com/106490681/235952198-4d63b6cf-dfbe-429d-ad72-91165f1a5fee.png)
+![image](https://user-images.githubusercontent.com/106490681/235977875-266bc277-806d-4721-a1d8-26211a446678.png)
 
-O ficheiro "Level.cs" contém o código necessário para o nível ser criado no ecrã
+![image](https://user-images.githubusercontent.com/106490681/235977920-4cbedf44-e11d-49cf-bc4c-e9a928714c6f.png)
+
+
+O código que existe dentro do ficheiro "MapEntity.cs" representa a entidade "Map", e este código contém métodos para renderizar o mapa, e verificar as colisões com o mesmo.
+
+O código que existe dentro do ficheiro "PlayerRaceCarEntity.cs" representa a entidade "RaceCarEntity", mas especificada para o jogador. 
+Ele verifica o input do carro do jogador, e mantém registo dos seus tempos de volta.
+
+
+O ficheiro "Level.cs" contém o código necessário para o nível ser criado no ecrã.
