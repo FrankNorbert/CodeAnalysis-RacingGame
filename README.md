@@ -189,4 +189,9 @@ Esta pasta contém código utilitário, e parte da lógica do jogo.
 
 ![image](https://user-images.githubusercontent.com/106490681/235986098-bdd407a8-292d-4fe6-b808-71d34e092d3c.png)
 
+![image](https://user-images.githubusercontent.com/106490681/235986221-4f323bd9-9154-4a5a-b874-75315477717d.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235986277-b7cef82b-ae8c-41ef-88dc-7572e432c782.png)
+
+
 
