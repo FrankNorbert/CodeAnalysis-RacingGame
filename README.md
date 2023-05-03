@@ -276,3 +276,9 @@ No ficheiro "Game.cs", existe o código que irá servir para fazer o jogo funcio
 
 ---RESTO DE FICHEIROS---
 O resto dos ficheiros deste jogo apenas contêm conteúdos relacionados com o GitHub, o logótipo do Monogame, um P.S escrito pelo desenvolvedor do jogo, e a função Main, que apenas contém um comando para abrir o jogo.
+
+![image](https://user-images.githubusercontent.com/106490681/235996275-a19c347d-af7f-431a-a5e1-49fa7582fcf0.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235996319-65111435-12bf-4ba0-9f39-28900b914763.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235996355-daf29edd-abb7-4d7d-94d1-0c6783b8f4ac.png)
