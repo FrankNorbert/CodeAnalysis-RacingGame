@@ -1,7 +1,7 @@
 # CodeAnalysis-RacingGame
 Trabalho realizado por: Dário Ribeiro, a23489
 
--------------------------------INTRODUÇÃO-----
+-------------------------------INTRODUÇÃO--------------------------------
 
 
 Neste trabalho, foi pedido para fazer a análise de um jogo desenvolvido em Monogame, à escolha.
