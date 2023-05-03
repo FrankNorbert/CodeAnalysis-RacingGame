@@ -11,13 +11,19 @@ Em particular, foi escolhido o jogo chamado de "RacingGame".
 ![image](https://user-images.githubusercontent.com/106490681/235947349-f00b37b7-fbdd-473c-a117-c4bea1fb5763.png)
 
 Ao analisar esta imagem, podemos observar que existem 5 pastas, com nomes:
+
 -Assets;
+
 -Core;
+
 -Game;
+
 -Scenes;
+
 -Utils.
 
 ---ASSETS---
+
 A pasta "Assets", como o nome indica, contém as imagens, fontes e sprites que foram utilizadas para o desenvolvimento do jogo, como observado nas seguintes imagens:
 ![image](https://user-images.githubusercontent.com/106490681/235949899-0e22576f-b4a4-4e03-a495-d6b00a90fe7c.png)
 ![image](https://user-images.githubusercontent.com/106490681/235950044-e03e2c86-d2de-4a12-8d57-c68e29de33f1.png)
