@@ -80,33 +80,11 @@ Todas as imagens acima contêm código derivado do ficheiro "Entity.cs", que em 
 
 Todas as imagens acima contêm código derivado do ficheiro "GameEntity.cs", que em geral, serve para criar as entidades do jogo, que são geridas pelo código que está no ficheiro "Entity.cs", e cria as tais entidades com várias propriedades e texturas.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---GAME---
-A pasta "Game", como o nome indica, contém a lógica por detrás dos carros e dos mapas.
+
+A pasta "Game", como o nome indica, contém a lógica por detrás dos carros e dos mapas, interpretando-os como os "entities", já referidos anteriormente.
+O código que existe dentro do ficheiro "AIRaceCarEntity.cs" representa os carros adversários, controlados pelo computador, pois este jogo é apenas single-player.
+
 ![image](https://user-images.githubusercontent.com/106490681/235952198-4d63b6cf-dfbe-429d-ad72-91165f1a5fee.png)
+
 O ficheiro "Level.cs" contém o código necessário para o nível ser criado no ecrã
