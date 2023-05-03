@@ -217,4 +217,62 @@ No ficheiro "MathUtils.cs", existe toda a lógica matemática ligada ao jogo.
 
 ![image](https://user-images.githubusercontent.com/106490681/235989762-116f4b37-b0ed-483a-8aa1-302d1cc5b95c.png)
  
- a 
+![image](https://user-images.githubusercontent.com/106490681/235990104-1cbcdc7f-012f-4477-9ced-a1356f6b99ec.png)
+
+No ficheiro "SAT.cs", existe a implementação do Separating Axis Theorem (SAT), já explicada anteriormente.
+
+![image](https://user-images.githubusercontent.com/106490681/235990313-3d66d28f-ab12-4948-8fa3-90d2922d0618.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990352-f15fabb4-fddb-479f-ab06-668ee0747304.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990421-1ba964b3-b9e1-4724-9530-8fdc45ea4a61.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990485-93f5b41b-a418-4f2a-b3d3-c537cfe3c958.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990546-9418663a-5ae8-4f5a-8391-3beced3d3490.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990672-0f6b12cd-8c7f-4aa0-a326-ed9592cbd265.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990698-a1ef0077-9f76-4595-9461-80ccfb1ad944.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990729-ea2bb68c-b0f9-4e38-9570-bfcc20d87b4b.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235990967-097db63a-102d-47e5-9d1f-ffb1997a489b.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235991071-373db83a-abf7-4211-83d9-48575378d1a7.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235991101-29205eaf-60d8-47ca-a56f-75fd0131ce62.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235991116-0e7285be-e826-42f0-b823-979c3e8f4e7f.png)
+
+No ficheiro "SpriteBatchUtils.cs", existe código apenas destinado a debug.
+
+![image](https://user-images.githubusercontent.com/106490681/235991295-f1207e91-0a09-413c-bfae-245b8681d5c3.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235991329-e21b1072-862d-48f7-8373-e63c50543a75.png)
+
+No ficheiro "StringUtils.cs", existe código destinado a nomear as posições de cada carro, em inglês (1st, 2nd, 3rd, 4th, e assim sucessivamente).
+
+![image](https://user-images.githubusercontent.com/106490681/235991556-09500d01-5735-462e-b65f-3479ace413f5.png)
+
+No ficheiro "Tiled.cs", existe código destinado a ler um tileset de formato .xml (convém notar que apenas suporta os dados de colisão de polígonos, devido ao sistema SAT explicado anteriormente).
+
+![image](https://user-images.githubusercontent.com/106490681/235992892-5d952b07-534a-4492-9a3a-d3751b921efa.png)
+
+---GAME.CS---
+No ficheiro "Game.cs", existe o código que irá servir para fazer o jogo funcionar, isto é, para conseguir abrir, e colocar tudo o necessário no ecrã e todas as funcionalidades executarem sem problemas. Também existe um modo "slow-motion", que ativa ao carregar na tecla CAPS-LOCK.
+
+![image](https://user-images.githubusercontent.com/106490681/235995113-18c95937-8489-4ccf-bc98-1e733c2bf3e1.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235995175-ded2a2e4-04ed-43c1-9fd3-6b938a699ad3.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235995212-d29df184-ee1e-4e28-9829-d51a2024a825.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235995265-dad68962-3472-44b9-a8d5-010289feb7e2.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235995332-93b4d857-7f4c-49fc-a5b1-8df3c4269767.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235995382-480c2167-1202-40a6-b2bd-833ca8f1dd0e.png)
+
+---RESTO DE FICHEIROS---
+O resto dos ficheiros deste jogo apenas contêm conteúdos relacionados com o GitHub, o logótipo do Monogame, um P.S escrito pelo desenvolvedor do jogo, e a função Main, que apenas contém um comando para abrir o jogo.
