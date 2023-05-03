@@ -25,6 +25,7 @@ Ao analisar esta imagem, podemos observar que existem 5 pastas, com nomes:
 ---ASSETS---
 
 A pasta "Assets", como o nome indica, contém as imagens, fontes e sprites que foram utilizadas para o desenvolvimento do jogo, como observado nas seguintes imagens:
+
 ![image](https://user-images.githubusercontent.com/106490681/235949899-0e22576f-b4a4-4e03-a495-d6b00a90fe7c.png)
 ![image](https://user-images.githubusercontent.com/106490681/235950044-e03e2c86-d2de-4a12-8d57-c68e29de33f1.png)
 ![image](https://user-images.githubusercontent.com/106490681/235950102-04904553-c704-4d5a-bde5-d068f4a90c57.png)
