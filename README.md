@@ -147,6 +147,9 @@ O ficheiro "Level.cs" contém o código necessário para o nível ser criado no 
 ![image](https://user-images.githubusercontent.com/106490681/235983200-92dd3689-5ee3-407b-a6c0-d0cb1a3de1c4.png)
 
 ---SCENES---
+
+![image](https://user-images.githubusercontent.com/106490681/235985705-495f1666-b752-4088-8d60-ae947e599e52.png)
+
 Dentro desta pasta, existem os ficheiros necessários para carregar o mapa, e para detetar colisões ("GameScene.cs" e "SATDemoScene.cs", respetivamente).
 
 No ficheiro "GameScene.cs", observamos:
@@ -154,4 +157,34 @@ No ficheiro "GameScene.cs", observamos:
 ![image](https://user-images.githubusercontent.com/106490681/235983975-4cf4c9ee-e22a-4d82-b31d-c13916926895.png)
 
 ![image](https://user-images.githubusercontent.com/106490681/235984040-2eca956f-7839-45e8-832e-01b8870d8854.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984160-a939d36b-8ed3-46f8-8cf0-25f6b6baa663.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984194-ecb263c9-35e1-460c-83c7-1c81aff5d5e4.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984249-1778e827-ef0c-40f4-a616-f916c1a6acf7.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984291-6326e4ef-3d0f-4b10-8b71-0a82648f5e7a.png)
+
+Também contém funções para representar o tempo de volta, e representa o nome do jogador, acima do carro, e os nomes dos bots.(Neste caso, os bots apenas estão numerados.)
+
+No ficheiro "SATDemoScene.cs", observamos o sistema de colisões utilizado.
+Este sistema é baseado na condição de polígonos convexos se intersetam.
+
+![image](https://user-images.githubusercontent.com/106490681/235984663-c6f28bc2-20c3-4725-b913-0695ee2772b8.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984686-5fdf6d21-d0dc-41f8-a83d-880758b9a58c.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984717-e71d154f-3b94-43aa-a416-3deec3bb0650.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984742-455ac398-86a7-48a5-8eae-fb520ff7a67b.png)
+
+![image](https://user-images.githubusercontent.com/106490681/235984769-e76cf544-9b7d-4b3b-a4e7-9b799c903fb7.png)
+
+---UTILS---
+Esta pasta contém código utilitário, e parte da lógica do jogo.
+
+
+
+![image](https://user-images.githubusercontent.com/106490681/235985613-8663ce4a-1b2a-4719-b6f8-6bcb639dd9ae.png)
 
