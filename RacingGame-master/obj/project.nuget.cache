@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wM4dLavlyFH/z566CUqeVUqQ41RFm45gqtLvU/EcL8o+WhF0889yBGPV6v2Y3zcioKZJ8G2bJL9SiRcJ1On+Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\profe\\Desktop\\RacingGame-master\\RacingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\profe\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\profe\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\profe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\profe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\profe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\profe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
